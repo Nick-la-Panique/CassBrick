@@ -1,0 +1,17 @@
+#gameCassBrick {
+    border: 1px solid #000;
+    background-color: #f2f2f2;
+  }
+  
+  .brick {
+    background-color: #ff0000;
+  }
+  
+  .paddle {
+    background-color: #0095DD;
+  }
+  
+  .ball {
+    background-color: #ff0000;
+  }
+     
